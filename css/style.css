@@ -22,7 +22,13 @@
   border-radius: 0.75rem;
 }
 
-.profile-img {
+.caramelo{
+  border-radius: 60%;
+  -webkit-border-radius: 60%;
+  -moz-border-radius: 60%;
+  -ms-border-radius: 60%;
+  -o-border-radius: 60%;
   height: 100px;
-  border-radius: 50%;
+  width: 100px;
 }
+
